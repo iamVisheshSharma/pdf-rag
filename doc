@@ -1,0 +1,4 @@
+STEP1
+RUN chromadb using below command
+$ npx chroma run --path ./getting-started
+
